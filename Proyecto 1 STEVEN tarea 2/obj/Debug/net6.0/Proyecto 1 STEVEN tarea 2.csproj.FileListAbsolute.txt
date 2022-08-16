@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\bin\Debug\net6.0\Proyecto 1 STEVEN tarea 2.exe
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\bin\Debug\net6.0\Proyecto 1 STEVEN tarea 2.deps.json
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\bin\Debug\net6.0\Proyecto 1 STEVEN tarea 2.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\bin\Debug\net6.0\Proyecto 1 STEVEN tarea 2.dll
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\bin\Debug\net6.0\Proyecto 1 STEVEN tarea 2.pdb
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\obj\Debug\net6.0\Proyecto 1 STEVEN tarea 2.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\obj\Debug\net6.0\Proyecto 1 STEVEN tarea 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\obj\Debug\net6.0\Proyecto 1 STEVEN tarea 2.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\obj\Debug\net6.0\Proyecto 1 STEVEN tarea 2.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\obj\Debug\net6.0\Proyecto 1 STEVEN tarea 2.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\obj\Debug\net6.0\Proyecto 1 STEVEN tarea 2.dll
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\obj\Debug\net6.0\refint\Proyecto 1 STEVEN tarea 2.dll
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\obj\Debug\net6.0\Proyecto 1 STEVEN tarea 2.pdb
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\obj\Debug\net6.0\Proyecto 1 STEVEN tarea 2.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN tarea 2\Proyecto 1 STEVEN tarea 2\obj\Debug\net6.0\ref\Proyecto 1 STEVEN tarea 2.dll
